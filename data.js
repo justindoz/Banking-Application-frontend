@@ -1,0 +1,1 @@
+const data = {"users":[{"name":"abel","email":"abel@mit.edu","password":"secret","balance":100},{"name":"123","email":"123","password":"123","balance":100}]};
